@@ -6,5 +6,4 @@ public class Input{
 		System.out.printf("Hello, %s\n",input.next());
 		System.out.printf("Enter your age:");
 		System.out.printf("You were born in %d\n",2020-input.nextInt());
-	}
 }
